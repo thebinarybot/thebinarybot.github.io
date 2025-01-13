@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! 
 
-[](./assets/images/screenshot.png)
+![](./assets/images/screenshot.png)
 
 🎉 This project showcases my skills, projects, and professional experience. It's built using **HTML**, **CSS**, and **JavaScript** and focuses on a clean, minimal design.
 
